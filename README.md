@@ -17,4 +17,4 @@ Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that 
 3. How could these trends help influence Bellabeat marketing strategy?
 ## Tools
 Pyhton for data cleaning, data analyzing and visualization.
-### Posted on [Kaggle](https://www.kaggle.com/code/yaseenanas/bellabeat-case-study-python).
+
